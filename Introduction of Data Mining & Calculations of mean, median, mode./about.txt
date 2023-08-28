@@ -1,0 +1,9 @@
+Data Mining, also popularly known as Knowledge Discovery in Databases (KDD), refers to the nontrivial extraction of implicit, previously unknown and potentially useful information from data in databases. While data mining and knowledge discovery in databases (or KDD) are frequently treated as synonyms, data mining is actually part of the knowledge discovery process. The Knowledge Discovery in Databases process comprises of a few steps leading from raw data collections to some form of new knowledge. The iterative process consists of the following steps:
+
+•	Data cleaning: also known as data cleansing, it is a phase in which noise data and irrelevant data are removed from the collection. 
+•	Data integration: at this stage, multiple data sources, often heterogeneous, may be combined in a common source.
+•	Data selection: at this step, the data relevant to the analysis is decided on and retrieved from the data collection.
+•	Data transformation: also known as data consolidation, it is a phase in which the selected data is transformed into forms appropriate for the mining procedure. 
+•	Data mining: it is the crucial step in which clever techniques are applied to extract patterns potentially useful. 
+•	Pattern evaluation: in this step, strictly interesting patterns representing knowledge are identified based on given measures.
+•	Knowledge representation: is the final phase in which the discovered knowledge is visually represented to the user. This essential step uses visualization techniques to help users understand and interpret the data mining results.
